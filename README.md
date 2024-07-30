@@ -1,13 +1,5 @@
 # Git
 
-## Exercises
-
-| Name              | Topic  | Objective & Instructions         | Solution                                    
-| ----------------- | ------ | -------------------------------- | ------------------------------------------- 
-| My first Commit   | Commit | [Exercise](commit_01.md)         | [Solution](solutions/commit_01_solution.md) 
-| Time to Branch    | Branch | [Exercise](branch_01.md)         | [Solution](solutions/branch_01_solution.md) 
-| Squashing Commits | Commit | [Exercise](squashing_commits.md) | [Solution](solutions/squashing_commits.md)  
-
 ## Questions
 
 ### Git Basics
@@ -367,3 +359,14 @@ Another reason is caching
 - Index caches information on working directory
 - When Git has the information for certain file cached, there is no need to look at the working directory file
   </b></details>
+
+## Exercises
+
+| Name              | Topic  | Objective & Instructions         | Solution                                    
+| ----------------- | ------ | -------------------------------- | ------------------------------------------- 
+| My first Commit   | Commit | [Exercise](commit_01.md)         | [Solution](solutions/commit_01_solution.md) 
+| Time to Branch    | Branch | [Exercise](branch_01.md)         | [Solution](solutions/branch_01_solution.md) 
+| Squashing Commits | Commit | [Exercise](squashing_commits.md) | [Solution](solutions/squashing_commits.md)  
+
+
+  
